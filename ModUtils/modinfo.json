@@ -1,0 +1,14 @@
+{
+  "name": "ModUtils",
+  "author": "Aidanamite",
+  "description": "Adds various funcitons to make some stuff easier for other mods",
+  "version": "1.2.5",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/modutils/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
